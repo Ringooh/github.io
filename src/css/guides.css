@@ -249,7 +249,7 @@ pre .comment{
 }
 
 .page-content {
-  padding: 65px;
+  padding: 20px;
   max-width: 640px;
   display: flex;
   flex-flow: column;
