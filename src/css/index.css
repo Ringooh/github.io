@@ -166,7 +166,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   background-color: #0E0F12;
-  padding-bottom: 25vh;
+  /*padding-bottom: 25vh;*/
 }
 
 .last-row {
